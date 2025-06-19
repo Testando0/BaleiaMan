@@ -1,11 +1,11 @@
 const filesToCache = [
-	"PacMan.htm",
+	"PacMan.html",
 	"PacMan.json",
 	"PacMan.png",
 	"PacManFavIcon_16x16.png",
 	"PacManFavIcon_192x192.png",
 	"PacManFavIcon_512x512.png",
-	"PacManGame.htm",
+	"PacManGame.html",
 	"PacManGame.js",
 	"PacManShare.png"
 ];
