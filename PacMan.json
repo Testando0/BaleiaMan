@@ -2,7 +2,7 @@
 	"name": "Baleiaman",
 	"short_name": "Baleia-man",
 	"lang": "pt-BR",
-	"start_url": "https://raw.githubusercontent.com/Testando0/BaleiaMan/refs/heads/main/PacMan.htm",
+	"start_url": "https://raw.githubusercontent.com/Testando0/BaleiaMan/refs/heads/main/PacMan.html",
 	"display": "standalone",
 	"orientation": "portrait",
 	"theme_color": "#000000",
